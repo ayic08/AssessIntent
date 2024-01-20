@@ -1,0 +1,6 @@
+@Exam.Web.API_HostAddress = https://localhost:5273
+
+GET {{Exam.Web.API_HostAddress}}/product/get/10/20
+Accept: application/json
+
+###
